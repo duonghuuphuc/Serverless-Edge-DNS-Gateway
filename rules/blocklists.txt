@@ -7286,7 +7286,6 @@ ad.adition.com
 ad.adjw.co.kr
 ad.adkova.com
 ad.admine.co.kr
-ad.adnow.com
 ad.adpon-affi.net
 ad.adpon.jp
 ad.adriver.ru
@@ -7718,7 +7717,6 @@ ad.site-landing.com
 ad.sitelement.sk
 ad.skylinewebcams.com
 ad.smaad.jp
-ad.smaclick.com
 ad.smartclip.net
 ad.smartinmedia.co.kr
 ad.snappea.com
@@ -10169,7 +10167,6 @@ ads.compro.se
 ads.comunidades.net
 ads.connectedinteractive.com
 ads.consents-management.prod.aws.statista.com
-ads.contentabc.com
 ads.contents.fc2.com
 ads.context2.ai
 ads.contextweb.com
@@ -15219,7 +15216,7 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
-allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allforyourlife.org
 allfreecounter.com
 allheart.evergage.com
@@ -22232,7 +22229,6 @@ app.wsucougars.com
 app.wts2.one
 app.wumii.com
 app.wvusports.com
-app.xdrig.com
 app.xizi.com
 app.xtreamarena.com
 app.yesware.com
@@ -24487,7 +24483,6 @@ auth0.vernovls.com
 auth2.cityads.com
 authanalysis.com
 authbe.sec.intl.miui.com
-authentic-criticism.com
 authentication.liveperson.net
 authenticflirtatious.com
 author.bloggerads.net
@@ -35287,7 +35282,6 @@ cdn.yollamedia.com
 cdn.yottaa.com
 cdn.yourwebbars.com
 cdn.yxrcr.com
-cdn.zampdsp.com
 cdn.zebotv.online
 cdn.zx-adnet.com
 cdn.zxclan.com
@@ -37699,7 +37693,6 @@ clickmerkez.com
 clickmeter.com
 clickmetertracking.com
 clickmi.net
-clickmintads.site
 clickmobad.net
 clickmon.co.kr
 clickn.co.kr
@@ -43021,7 +43014,6 @@ cse.rakanto.com
 cse3.chausport.com
 csebt.bloomist.com
 csenajeurcvoc.space
-csengb.manfredijewels.com
 csf.uzone.id
 csfijhywqxquh.space
 csfvub.mcmworldwide.com
@@ -55391,7 +55383,6 @@ dokxpl.wwbw.com
 dol.deliver.ifeng.com
 dolanadserver.com
 dolapdarmbldn.site
-dolarkurum.com
 dolead.com
 dolej.beyondriders.com
 dolekaraokeoversleep.com
@@ -59818,6 +59809,7 @@ eldj-defender.pro
 eldoradottfha.dataplane.rudderstack.com
 eldos.xyz
 ele26126.jscrambler.com
+elearningmine.com
 eleavers.com
 elecltrum.org
 electclasses.com
@@ -93574,7 +93566,6 @@ kenuu.howardbentleyauto.com
 kenwgjb2r.nwtgecmgxcwkbrpt36.cyou
 kenya-aiways.com
 kenyann.xyz
-kenyaweb.com
 keodinh.net
 keoofp.gulfnews.com
 keoto.xyz
@@ -102752,6 +102743,7 @@ load.sst.planinternational.nl
 load.sst.polonious-systems.com
 load.sst.poolfence.com
 load.sst.pot-verhuizingen.nl
+load.sst.powerimport.nl
 load.sst.pranarestaurant.co.uk
 load.sst.pre-prod.nl.toolstation.dev
 load.sst.pressienails.com
@@ -120919,6 +120911,7 @@ newtab-media.com
 newtabextension.com
 newtabtv.com
 newtail-adserver-api-v5-events-prod.us-east-1.elasticbeanstalk.com
+newtentionassets.net
 newtest.wunderman-email.cjm.adobe.com
 newthuads.com
 newton.pw
@@ -129789,6 +129782,7 @@ p2hn.nxvi538uztec7h125.cyou
 p2muoczf5.com
 p2p-punch-v6.xxpkg.com
 p2p-punch.xxpkg.com
+p2p.huya.com
 p2p.qq.com
 p2pdh.com
 p2perrorlog.douyucdn.cn
@@ -130454,6 +130448,7 @@ parasiteoutdoorsmix.com
 parasolco.pxf.io
 parasolcrimefactory.com
 parazoabeirut.cyou
+parblemophaort.com
 parcelconsists.com
 parchedplay.com
 parchedsofa.com
@@ -145319,6 +145314,7 @@ rivestimentiplastici.it
 riveter29.com
 riveter35.top
 rivinanuncius.cfd
+rivne.space
 rivuletpirns.com
 riwkmo.spacemarket.com
 riwnmh.novasol.co.uk
@@ -148222,6 +148218,7 @@ s.djmarkusrosenbaum.de
 s.dmmew.com
 s.dobafi.com
 s.domob.cn
+s.doyo.cn
 s.dpmsrv.com
 s.draqarys.com
 s.dreamland-plc.com
@@ -148853,7 +148850,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -154491,7 +154487,6 @@ server.collectionnine.com
 server.com
 server.comalma.com.br
 server.comercialalvorada.com.br
-server.comfortfoodagro.com
 server.comfortshopbd.com
 server.comicsflix.site
 server.commbox.com.br
@@ -155375,7 +155370,6 @@ server.keisenutri.com.br
 server.khaneducation.co.uk
 server.khatifarm.com
 server.khatiponno24.com
-server.khejurergur.hassanahmart.com
 server.kholzistreasure.com
 server.khulnashops.com.bd
 server.khusbooghor.com
@@ -161958,6 +161952,7 @@ six.bikebicycler.com
 six.kroyzo.com
 sixauthority.com
 sixdespise.com
+sixfivetentwo.cfd
 sixfoldmazesscreen.cyou
 sixft-apart.com
 sixinpic.ksapisrv.com
@@ -162448,6 +162443,7 @@ slickjump.net
 slickquiver.com
 slickstream.com
 slicktext.com
+slid3.com
 sliddergoofed.cfd
 sliddrycampman.qpon
 slidedeck.ojrq.net
@@ -166132,7 +166128,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.saxobank.com
@@ -184466,6 +184461,7 @@ static.nectarads.com
 static.netyra.info
 static.newchallenges-rtb.com
 static.newsmaxfeednetwork.com
+static.notgoingtouni.co.uk
 static.novanet.vn
 static.nresystems.com
 static.oherbuttheds.com
@@ -197396,7 +197392,6 @@ track.dalenetwork.com
 track.daly2024.com
 track.dariuslukas.com
 track.datacenterworld.com
-track.ddmanager.ru
 track.dealextremist.com
 track.debbicarberry.com.au
 track.debenhams.ie
@@ -204442,6 +204437,7 @@ un.kumparan.com
 un1.lawyernet.cn
 un2.banmamedia.com
 un8hlx.com
+unablehope.com
 unablewhollyold.com
 unaccountablepie.com
 unacosmetics.com
@@ -219905,7 +219901,6 @@ ybtevzivkqolm.website
 ybtyvbzvxpvex.store
 ybuneloeh.com
 ybv.wm-meyer-anhaenger.de
-ybvfdu.pngadgil.com
 ybx.yahoo.co.jp
 ybycgilqhqyib.website
 ybzcmz.momoshop.com.tw
@@ -223537,6 +223532,7 @@ zzdvsgnxamcmq.website
 zzfikyawmqtmw.website
 zzfmo.getyourwaggleon.com
 zzfsli.tom-tailor.ru
+zzfxfz.com
 zzghp.velotricbike.com
 zzhengre.com
 zzhizbzowrzlvy.com

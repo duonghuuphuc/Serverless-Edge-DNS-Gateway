@@ -619,6 +619,7 @@ api.erabu.sony.tv
 n-wap.i.tplinkcloud.com
 api.frameo.net
 serviceupdates.frameo.net
+sm.dell.com
 ota.lenovo.com
 firebaseinstallations.googleapis.com
 firestore.googleapis.com

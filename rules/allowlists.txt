@@ -625,6 +625,7 @@ sm.dell.com
 ota.lenovo.com
 firebaseinstallations.googleapis.com
 firestore.googleapis.com
+k8s-lb.wss.redditmedia.com
 storeedge.microsoft.com
 opt.scheels.com
 unifi-kms.svc.ui.com
